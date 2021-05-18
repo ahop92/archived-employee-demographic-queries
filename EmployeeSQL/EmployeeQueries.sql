@@ -94,3 +94,4 @@ COUNT("Employees".last_name) AS "Last Name Count"
 FROM "Employees"
 GROUP BY "Employees".last_name
 ORDER BY "Last Name Count" DESC;
+
