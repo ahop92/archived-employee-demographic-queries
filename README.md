@@ -1,4 +1,4 @@
-# sql-challenge
+# Archived Employee Data Analysis
 
 ## Background
 
